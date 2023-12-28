@@ -14,7 +14,7 @@ Follow these steps to set up the eLeave System locally:
 
 1. Clone this repository to your local machine.
 ```
-git clone https://github.com/Aimanovation/eLeave-system.git
+git clone https://github.com/aimaniskndar/eLeave-system.git
 ```
 
 2. Launch XAMPP and start the Apache and MySQL services.
@@ -58,4 +58,4 @@ Please note that this eLeave System is provided as-is without any warranty. Use 
 
 ## Contact
 
-For any inquiries or support regarding the eLeave System, feel free to contact the project maintainer at [aimanovation@gmail.com](mailto:aimanovation@gmail.com).
+For any inquiries or support regarding the eLeave System, feel free to contact the project maintainer at [contact.aiman.azman@gmail.com](mailto:contact.aiman.azman@gmail.com).
